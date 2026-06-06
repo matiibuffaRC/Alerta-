@@ -9,7 +9,7 @@ Proyecto con frontend (Vite + React) y backend (Express) para una simulacion de 
 
 ## Instalacion
 
-Desde la raiz del repo:
+[Importante] Desde la raiz del repo:
 
 ```
 npm run install:all
